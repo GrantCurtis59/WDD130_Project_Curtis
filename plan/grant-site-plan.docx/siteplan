@@ -1,0 +1,59 @@
+Grant’s Site Plan
+Grant Curtis
+WDD 130
+
+Overview
+Purpose
+To aid NFL team front offices in free-agency decision making 
+Audience
+NFL general managers 
+
+Branding
+Website Logo
+
+
+
+
+Style Guide
+Color Palette
+Secondary
+Primary
+Accent 1
+Accent 2
+#086788
+#07A0C3
+#FFF1D0
+#828C51
+
+Typography
+Heading Font: Aptos
+Paragraph Font: Aptos Slab
+
+Navigation
+Home     e2      Page3
+
+
+
+
+Home page text: 
+
+Free agency in the National Football League isn’t just a signing period, it’s a high-stakes, fast-moving pressure cooker for front offices. Every decision carries long-term consequences, and the margin for error is razor thin.
+Front offices are juggling dozens of variables at once: salary cap constraints, player valuations, injury histories, scheme fits, locker room dynamics, and future draft implications. One overpay can cripple flexibility for years, while one missed opportunity can be the difference between a playoff run and a lost season. On top of that, negotiations happen in real time, often with incomplete or outdated information, while competing teams are making simultaneous offers behind the scenes.
+The stress is compounded by time pressure. Deals develop and collapse within hours. Executives must rapidly compare players across positions, assess market trends, and project future performance while ownership, coaches, agents, and fans demand immediate results. There’s no pause button, no perfect data set, and no room for hesitation.
+That’s where my site comes in.
+My platform transforms chaos into clarity. By centralizing data, automating comparisons, and delivering real-time insights, it gives front offices the ability to make faster, smarter, and more confident decisions. Instead of scrambling to piece together information from scattered sources, decision-makers can see the full picture instantly—cap impact, player value, roster fit, and market movement all in one place.
+In a world where every second and every dollar matters, my site doesn’t just reduce stress, it creates a competitive advantage.
+
+Second page text:
+These are the top free agents from the official NFL site
+
+Wireframes
+Home
+
+
+
+Free Agents list 
+(just get the top 24 names from here: https://www.nfl.com/news/top-101-nfl-free-agents-of-2026-the-original-ranking)
+ 
+Cap space list 
+https://overthecap.com/salary-cap-space (use the left-most columns of numbers and the corresponding team names)
